@@ -1,0 +1,9 @@
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\bin\Debug\netcoreapp3.1\Ejemplo4.Dominio.deps.json
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\bin\Debug\netcoreapp3.1\Ejemplo4.Dominio.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\bin\Debug\netcoreapp3.1\Ejemplo4.Dominio.pdb
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.AssemblyInfoInputs.cache
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.AssemblyInfo.cs
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Dominio\obj\Debug\netcoreapp3.1\Ejemplo4.Dominio.pdb

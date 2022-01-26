@@ -1,0 +1,15 @@
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.deps.json
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.pdb
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Dominio.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Persistencia.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Dominio.pdb
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\bin\Debug\netcoreapp3.1\Ejemplo4.Persistencia.pdb
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.AssemblyInfo.cs
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.csproj.CopyComplete
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.dll
+C:\Users\yeisson.ochoa\source\repos\Ejemplo4\Ejemplo4.Aplicacion\obj\Debug\netcoreapp3.1\Ejemplo4.Aplicacion.pdb

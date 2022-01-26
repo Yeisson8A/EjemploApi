@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ejemplo4.Dominio\Ejemplo4.Dominio.csproj" />
+    <ProjectReference Include="..\Ejemplo4.Persistencia\Ejemplo4.Persistencia.csproj" />
+  </ItemGroup>
+
+</Project>
